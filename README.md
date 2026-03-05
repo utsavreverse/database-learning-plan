@@ -14,7 +14,7 @@
 Note that all the vendors (postgreSQL, mySQL etc) of SQL have their own data types, but there are some common data types that are supported by all vendors, for more referance it's always good idea to refer the documantation of that vendor.
 
 3. **SQL Constraints**
-    - [Intro](https://youtu.be/9n7l8sXo2jA)
+    - [Intro](https://youtu.be/-8bYtApJNos)
     - [Examples](https://youtu.be/KqBiGOdce74)
     - [Primary and Foreign Key constraints](https://youtu.be/MR0PK0qkCD8)
 
@@ -40,7 +40,7 @@ Note that all the vendors (postgreSQL, mySQL etc) of SQL have their own data typ
 
 8. **Joins and Subqueries in SQL**
     - [Joins](https://youtu.be/h4EQBAzW3m4)
-    - [Subqueries](https://youtu.be/9lTuR0RfKz8)
+    - [Subqueries](https://youtu.be/i5acg3Hvu6g)
     - Join vs Subquery [1](https://medium.com/@sanjuktabaruah5/sql-joins-vs-subqueries-a-comprehensive-comparison-039e6f4686a5), [2](https://asktom.oracle.com/ords/f?p=100:11:0::::P11_QUESTION_ID:66812779016023)
     - [Practice](https://pgexercises.com/questions/joins/)
 
